@@ -1,0 +1,5 @@
+Columbo: I didn't eat the cake and I always tell the truth.
+Jessica: Columbo did eat the cake and he's lying, I'm innocent
+Benoit: Jessica did it. She is a lyer.
+Who ate the cake?
+Hello, world! (from python)
